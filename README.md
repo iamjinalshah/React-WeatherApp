@@ -1,1 +1,5 @@
-# React-WeatherApp
+<p align="center">
+
+  <img src="img.jpeg"/>
+
+</p>
